@@ -1,0 +1,4 @@
+Jumlah film horror: 14
+Jumlah film animasi: 15
+Jumlah film drama: 21
+Genre dengan jumlah film terbanyak: drama
