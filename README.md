@@ -26,8 +26,9 @@
 ### Subtask C
 
 ![task1_c_code1](images/task1_c_code1.png)
-![task1_c_code2](images/task1_a_code2.png)
-![task1_c_code3](images/task1_a_code3.png)
+![task1_c_code2](images/task1_c_code2.png)
+![task1_c_code3](images/task1_c_code3.png)
+![task1_c_code4](images/task1_c_code4.png)
 
 - Membuat fungsi untuk menghitung jumlah film
 - Pada fungsi log menggunakan time(NULL) dan localtime(&now) untuk mendapatkan waktu saat ini
